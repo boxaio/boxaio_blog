@@ -2,7 +2,7 @@ baseURL = "https://boxaio.github.io/"
 DefaultContentLanguage = "zh-hant" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "zh-hant"
 title = "Bo Xiao's blog"
-copyright = " Rise. 本站遵循 CC-BY-NC 4.0 协议"
+#copyright = " Rise. 本站遵循 CC-BY-NC 4.0 协议"
 theme = "diary"
 
 # Generate sitemap in the public folder
