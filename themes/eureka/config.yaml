@@ -3,9 +3,9 @@ build:
 
 module:
   imports:
-    - path: wangchucheng.com/hugo-marble/search
-    - path: wangchucheng.com/hugo-marble/utils
-    - path: github.com/FortAwesome/Font-Awesome
+    - path: hugo-marble/search
+    - path: hugo-marble/utils
+    - path: Font-Awesome/Font-Awesome
       mounts:
         - source: js-packages/@fortawesome/fontawesome-svg-core
           target: assets/js/fontawesome/fontawesome-svg-core

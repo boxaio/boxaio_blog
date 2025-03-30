@@ -30,7 +30,7 @@ theme = "diary"
 
 [params]
 #subtitle = "Themed by Diary."
-enableGitalk = false
+enableGitalk = true
 enableGiscus = true
 
 # Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
